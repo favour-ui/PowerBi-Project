@@ -48,13 +48,13 @@ New calculated columns and measures were created in DAX for analysis:
 
 The following insights were visualized in the dashboard:
 
- - **Quantity & Revenue by Country:** Netherlands (£235K) and EIRE (£212K) lead sales, followed by France and Germany.
+ - **Quantity & Revenue by Country:** Netherlands ($235K) and EIRE ($201K) lead sales, followed by France and Germany.
 
- - **Revenue by Time of Day:** Afternoon (£638K) and Morning (£535K) dominate sales, with negligible evening activity.
+ - **Revenue by Time of Day:** Afternoon ($626K) and Morning ($526K) dominate sales, with negligible evening activity.
 
- - **Revenue by Month:** October (£170K) and November (£147K) peak due to holiday demand, while April (£41K) and December (£39K) are the lowest.
+ - **Revenue by Month:** October ($169K) and November ($143K) peak due to holiday demand, while April ($41K) and December ($38K) are the lowest.
 
- - **Revenue by Quarter:** Q4 (£356K) and Q3 (£336K) outperform Q1 (£257K) and Q2 (£230K), showing strong second-half seasonality.
+ - **Revenue by Quarter:** Q4 ($351K) and Q3 ($327K) outperform Q1 ($253K) and Q2 ($225K), showing strong performance on the Q4 and Q3 seasonality.
 
  - **Revenue by Customer ID:** A small group of customers drive disproportionately high sales.
 
