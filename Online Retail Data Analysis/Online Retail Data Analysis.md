@@ -62,6 +62,32 @@ The following insights were visualized in the dashboard:
 
 The figure below shows the dashboard, which was built based on the analysis of the data.
 
+|Figure: Online Retail Dashboard (2011)|
 |--------------|
 
+<img width="608" height="340" alt="online sales dashboard" src="https://github.com/user-attachments/assets/1b50c09a-2ad8-47ce-99e0-6cbc3feabd97" />
+
+## Data Insight
+
+**Key findings:**
+
+ - **Top Markets:** Netherlands and EIRE are the largest contributors.
+
+ - **Seasonality:** Q3 and Q4 show strong demand due to seasonal shopping trends.
+
+ - **Time of Day:** Afternoon and Morning are peak transaction times, suggesting optimal engagement windows.
+
+ - **Customer Base:** Revenue is concentrated among a few high-value customers, highlighting potential for loyalty programs.
+
+## Recommendations
+
+Based on the analysis:
+
+**1. Inventory Optimization -** Align stock levels with seasonal demand by ramping up inventory before Q4 holiday sales, ensuring product availability during peak shopping periods.
+
+**2. Global Expansion -** Prioritize international growth in the top 10 high-demand non-UK countries, tailoring logistics and marketing strategies to regional consumer behavior.
+
+**3. Customer Retention Strategy -** Develop loyalty and rewards programs for the highest revenue-generating customers, coupled with personalized offers to strengthen relationships and reduce churn.
+
+**4. Targeted Marketing Campaigns -** Focus promotional efforts on Afternoon and Morning peak hours, when customers are most active, to maximize conversion rates and revenue impact.
 
